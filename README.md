@@ -4,7 +4,7 @@
 This single page app uses the Google maps API and the location-based service Foursquare API to list some attractions in the Blue Mountains Katoomba, Australia. The page features 5 map markers of locations in the Blue Mountains and lists details of each attraction using the Foursquare API. It also includes a search functionality that filters out the markers by query.
 It is made with responsiveness and a11y in mind.
 
-[APP HOSTED HERE. CLICK TO TRY IT OUT!](https://github.com/algammal/Map-project.git")
+[APP HOSTED HERE. CLICK TO TRY IT OUT!](https://github.com/algammal/restmaps.git)
 
 
 This app was design from ground up, utilizing the create-react-app tool.
